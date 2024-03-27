@@ -1,0 +1,9 @@
+{
+  "token": "Token Gir ",
+  "prefix": ".",
+  "voiceChannel":"Ses Kanal Id ",
+  "kategoriID":"Oda Olustaracagi kategori id ",
+  "sunucuID":"kendi sunucunun id sini gir ",
+  "odaOlusturID":"oda olusturma yazi kanalinin id si",
+  "odaSure":1200000
+}
